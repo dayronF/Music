@@ -9,7 +9,7 @@
 }
 
 .banner {
-  background-image: url(/assets/images/angel.jpg);
+  background-image: url(../assets/images/angel.jpg);
   background-size: cover;
   background-position: center;
   height: 870px;
@@ -81,7 +81,7 @@ button {
   cursor: pointer;
 }
 .final {
-  background-image: url(/assets/images/raptis.png);
+  background-image: url(assets/images/raptis.png);
   background-size: cover;
   height: 800px;
   display: flex;
