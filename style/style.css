@@ -81,7 +81,7 @@ button {
   cursor: pointer;
 }
 .final {
-  background-image: url(assets/images/raptis.png);
+  background-image: url(../assets/images/raptis.png);
   background-size: cover;
   height: 800px;
   display: flex;
